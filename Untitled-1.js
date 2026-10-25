@@ -55,7 +55,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "TẤN DŨNG CẢM ƠN BẠN",
                     body: "CHÚC MỪNG BẠN ĐÃ MỞ KHOÁ VIP ",
-                    imageURL: "Https://ibb.co/tpTtq1Sf"
+                    imageURL: "https://i.ibb.co/VYcZgkdy/C593-C887-3337-4894-9301-11385-C245684.png"
                 
                 }
             ],
