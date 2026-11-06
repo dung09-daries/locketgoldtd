@@ -96,7 +96,7 @@ if (ua.includes("Locket")) {
     // ============================================================
     // 3. CAMERA, VIDEO, FILTERS & UPLOAD QUALITY
     // ============================================================
-    var MY_VIDEO_DURATION = 45.0;
+    var MY_VIDEO_DURATION = 60.0;
     
     var cameraConfig = {
         gold_max_duration: MY_VIDEO_DURATION,
@@ -682,7 +682,7 @@ if (ua.includes("Locket")) {
                             icon: { data: "🇻🇳", type: "emoji" },
                             max_lines: 1,
                             text: "Cảm thấy hạnh phúc",
-                            localized_text: { en: "Feeling Happy", vn: "Cảm thấy hạnh phúc" },
+                            localized_text: { en: "Feeling Happy", vn: "Tấn Dũng Đẹp Trai" },
                             text_color: "#FFFFFFE6",
                             type: "static_content"
                         }
